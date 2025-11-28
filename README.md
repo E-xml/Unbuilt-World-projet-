@@ -3,7 +3,7 @@ Projet de jeux video
 
 ## Présentation
 
-Unbuilt World (littéralement "Monde non construit") est un projet de jeu de role (RPG) developé par (nom-de-l-equipe).
+Unbuilt World (littéralement "Monde non construit") est un projet de jeu de role (RPG) developé par CoreShift Studio.
 
 Le joueur est plongé dans un univers constitué d'une soixantaine d'îles, appelées secteurs. Le gameplay et la difficulté varie d'un secteur à l'autres. Le but est de réparer la réalité qui a volé en éclat en même temps que le monde lui-même.
 
